@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.mas": "html",
+    "autohandler": "perl",
+    "*.mi": "perl",
+    "*.m": "perl",
+    "*.erb": "erb",
+    "*.css": "postcss",
+    "iostream": "cpp",
+    "iterator": "cpp"
+  }
+}
